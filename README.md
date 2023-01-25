@@ -6,5 +6,5 @@
 
 <div align="center">
   <a href="https://github.com/gabrieldevreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieldevreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieldevreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
