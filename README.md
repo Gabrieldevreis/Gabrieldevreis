@@ -16,19 +16,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
-
-   nome : Jobs para atualizar dados
-    run-on : ubuntu-latest
-    passos :
-      # cartões de resumo
-      - usa : ações/checkout@v2
-      - usa : vn7n24fzkq/github-profile-summary-cards@release
-        ambiente :
-          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
-        com :
-          NOME DE USUÁRIO : ${{ github.repository_owner }}
-
-      # Animação de Cobra
-      - usa : Platane/snk@master
-        id : cobra-gif
+  ![Snake animation](https://github.com/Gabrieldevreis/Gabrieldevreis/blob/output/github-contribution-grid-snake.svg)
