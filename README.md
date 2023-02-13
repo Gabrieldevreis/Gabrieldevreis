@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho como Operador CNC e Projetista SolidWorks;
 - 🌱 Eu estou estudando : HTML5, CSS3, Javascript, Typescript;
-- 😄 Pronomes : ele/dele
 
 <div align="center">
   <a href="https://github.com/gabrieldevreis">
@@ -18,3 +17,18 @@
 </div>
   
   ##
+
+   nome : Jobs para atualizar dados
+    run-on : ubuntu-latest
+    passos :
+      # cartões de resumo
+      - usa : ações/checkout@v2
+      - usa : vn7n24fzkq/github-profile-summary-cards@release
+        ambiente :
+          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+        com :
+          NOME DE USUÁRIO : ${{ github.repository_owner }}
+
+      # Animação de Cobra
+      - usa : Platane/snk@master
+        id : cobra-gif
