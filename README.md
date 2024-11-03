@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Angular , SQL and creating API with Express.js<br>🎯 Goals: My goal is to create amazing interfaces trough code.<br>🎲 Fun fact: I'm not afraid to mess up and try up and try again and again and again and again... </p>
 
 ###
 
